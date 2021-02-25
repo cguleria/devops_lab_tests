@@ -1,2 +1,2 @@
 # devops_lab_tests
-Testing for lab purpose only 
+This is a placeholder for git interview questions 
